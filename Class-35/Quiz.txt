@@ -1,0 +1,21 @@
+Q1) Color of Apple?
+a) Red
+b) Blue
+c) Green
+d) Black
+Ans: a
+
+Q2) Color of Banana?
+a) Red
+b) Blue
+c) Green
+d) Yellow
+Ans: d
+
+
+Q3) Color of Sky?
+a) Red
+b) Blue
+c) Green
+d) Yellow
+Ans: b
